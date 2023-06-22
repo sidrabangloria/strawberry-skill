@@ -2,16 +2,16 @@
 Favorite berry
 
 ## About
-Strawberries are my favorite fruit and berry.
+Strawberries are my favorite fruit
 
 ## Examples
 * "Red"
 * "Berry"
 * "I'm full"
-* "I;m hungry"
+* "I'm hungry"
 
 ## Credits
-Maha Bangloria
+SB
 
 ## Category
 **Entertainment**
